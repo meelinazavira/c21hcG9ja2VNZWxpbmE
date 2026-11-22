@@ -12,37 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Melina =====
-[1]Melina      |09:06:24 | 21-11-2026| login OK @melinazavira | score=3430 rank=2164
-[1]Melina      |09:06:24 | 21-11-2026| serverTime=2026-11-21T09:06:24.000Z local=2026-11-21T09:06:24.442Z
+[1]Melina      |09:15:27 | 22-11-2026| login OK @melinazavira | score=3460 rank=2138
+[1]Melina      |09:15:27 | 22-11-2026| serverTime=2026-11-22T09:15:27.000Z local=2026-11-22T09:15:27.859Z
 --> [1]Melina menjalankan: Claim Daily
-[1]Melina      |09:06:26 | 21-11-2026| daily: OK +10 poin score=3440
---> [1]Melina menjalankan: Auto All Tasks (2 pending)
-[1]Melina      |09:06:28 | 21-11-2026| [1/2] eb16067b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eb16067b-5c6b-45c2-a910-214eadbf0845","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212378881943474 | proof=https://x.com/melinazavira/status/2124066614472232408
-[1]Melina      |09:06:28 | 21-11-2026| delay 10s...
-[1]Melina      |09:06:40 | 21-11-2026| [2/2] d97f0c57 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eb16067b-5c6b-45c2-a910-214eadbf0845","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212378881943474 | proof=https://x.com/melinazavira/status/2124066497375189672
-[1]Melina      |09:06:40 | 21-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Melina      |09:06:42 | 21-11-2026| [1/1] eb16067b (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"eb16067b-5c6b-45c2-a910-214eadbf0845","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2123788819434745 | proof=https://x.com/melinazavira/status/2124066628842100216
+[1]Melina      |09:15:29 | 22-11-2026| daily: OK +10 poin score=3470
+--> [1]Melina menjalankan: Auto All Tasks (4 pending)
+[1]Melina      |09:15:30 | 22-11-2026| [1/4] 733b22c0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/melinazavira/status/2124431160616653325
+[1]Melina      |09:15:30 | 22-11-2026| delay 10s...
+[1]Melina      |09:15:42 | 22-11-2026| [2/4] ddf40dac (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/melinazavira/status/2124431343952231402
+[1]Melina      |09:15:42 | 22-11-2026| delay 10s...
+[1]Melina      |09:15:54 | 22-11-2026| [3/4] 765f5781 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/melinazavira/status/2124431255779627620
+[1]Melina      |09:15:54 | 22-11-2026| delay 10s...
+[1]Melina      |09:16:06 | 22-11-2026| [4/4] 043ba6d6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212442930102627 | proof=https://x.com/melinazavira/status/2124431301795123181
+[1]Melina      |09:16:06 | 22-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Melina      |09:16:07 | 22-11-2026| [1/1] 733b22c0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"733b22c0-a044-4ee5-8b8b-3dc29931605f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124429301026271 | proof=https://x.com/melinazavira/status/2124431413458281455
 --> [1]Melina menjalankan: Watch Anime
-[1]Melina      |09:06:43 | 21-11-2026| watch: semua video sudah completed
+[1]Melina      |09:16:08 | 22-11-2026| watch: semua video sudah completed
 --> [1]Melina menjalankan: Read Article
-[1]Melina      |09:06:43 | 21-11-2026| news: 34/34 artikel selesai dibaca
-[1]Melina      |09:06:44 | 21-11-2026| mint eligibility: {"userId":"1695742906903244800","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Melina      |09:06:44 | 21-11-2026| news: semua artikel sudah dibaca
+[1]Melina      |09:16:09 | 22-11-2026| news: 34/34 artikel selesai dibaca
+[1]Melina      |09:16:10 | 22-11-2026| mint eligibility: {"userId":"1695742906903244800","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Melina      |09:16:10 | 22-11-2026| news: semua artikel sudah dibaca
 --> [1]Melina menjalankan: Quiz Anime
 --> [1]Melina menjalankan: Music Missions (realtime, bisa lama!)
-[1]Melina      |09:06:46 | 21-11-2026| music: kedua misi sudah tercapai, stop
-[1]Melina      |09:06:47 | 21-11-2026| mission music-listens-10: sudah diklaim
-[1]Melina      |09:06:47 | 21-11-2026| mission music-minutes-30: sudah diklaim
-[1]Melina      |09:06:47 | 21-11-2026| mission anime-completed-3: sudah diklaim
+[1]Melina      |09:16:12 | 22-11-2026| music: kedua misi sudah tercapai, stop
+[1]Melina      |09:16:12 | 22-11-2026| mission music-listens-10: sudah diklaim
+[1]Melina      |09:16:12 | 22-11-2026| mission music-minutes-30: sudah diklaim
+[1]Melina      |09:16:12 | 22-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melina menjalankan: Claim Missions
-[1]Melina      |09:06:48 | 21-11-2026| mission music-listens-10: sudah diklaim
-[1]Melina      |09:06:48 | 21-11-2026| mission music-minutes-30: sudah diklaim
-[1]Melina      |09:06:48 | 21-11-2026| mission anime-completed-3: sudah diklaim
+[1]Melina      |09:16:13 | 22-11-2026| mission music-listens-10: sudah diklaim
+[1]Melina      |09:16:13 | 22-11-2026| mission music-minutes-30: sudah diklaim
+[1]Melina      |09:16:13 | 22-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melina menjalankan: Check Eligibility
 
 --- eligibility [1]Melina ---
-  @melinazavira | score=3430 rank=2164
-  tasks    [#############-------] 4/6
+  @melinazavira | score=3460 rank=2138
+  tasks    [###########---------] 5/9
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Melina menjalankan: Read Manga
-[1]Melina      |09:06:52 | 21-11-2026| manga: 0/13 chapter belum completed
+[1]Melina      |09:16:18 | 22-11-2026| manga: 0/13 chapter belum completed
 --> [1]Melina menjalankan: Get Gift
-[1]Melina      |09:06:54 | 21-11-2026| gift: 3/12 belum diterima
-[1]Melina      |09:06:55 | 21-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Melina      |09:06:58 | 21-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Melina      |09:07:01 | 21-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Melina      |09:16:19 | 22-11-2026| gift: 3/12 belum diterima
+[1]Melina      |09:16:20 | 22-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Melina      |09:16:23 | 22-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Melina      |09:16:26 | 22-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Melina menjalankan: Setup Profile
-[1]Melina      |09:07:04 | 21-11-2026| profile: bio="https://x.com/melinazavira" fav=yuki rewardAt=1791684835
-[1]Melina      |09:07:04 | 21-11-2026| profile: bonus sudah diklaim, skip
+[1]Melina      |09:16:28 | 22-11-2026| profile: bio="https://x.com/melinazavira" fav=yuki rewardAt=1791684835
+[1]Melina      |09:16:28 | 22-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Melina menjalankan: Bind Wallet
-[1]Melina      |09:07:04 | 21-11-2026| wallet: sudah terikat CsaFYSaxfP... (solana)
+[1]Melina      |09:16:29 | 22-11-2026| wallet: sudah terikat CsaFYSaxfP... (solana)
 
 == RINGKASAN ==
-- Melina: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Melina: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
